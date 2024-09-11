@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NeerMalik/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/NeerMalik/DSA-Problems/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NeerMalik/DSA-Problems/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NeerMalik/DSA-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
