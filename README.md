@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NeerMalik/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/NeerMalik/DSA-Problems/tree/master/0326-power-of-three) |
 | [1610-xor-operation-in-an-array](https://github.com/NeerMalik/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/NeerMalik/DSA-Problems/tree/master/2383-add-two-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NeerMalik/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/NeerMalik/DSA-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/NeerMalik/DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NeerMalik/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/NeerMalik/DSA-Problems/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
 | ------- |
