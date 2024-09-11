@@ -1,32 +1,24 @@
-import java.math.BigInteger;
-
 class Solution {
     public int getLucky(String s, int k) {
-        String str = "";
-        
-      
-        for (int i = 0; i < s.length(); i++) {
-            int value = s.charAt(i) - 'a' + 1; 
-            str += value;
-        }
-        
-     
-        BigInteger num = new BigInteger(str);
-        
-    
-        while (k > 0) {
-            num = BigInteger.valueOf(sumOfDigits(num));
-            k--;
-        }
-        
-        return num.intValue();
-    }
-  
-    public int sumOfDigits(BigInteger n) {
+        StringBuilder sb = new StringBuilder();
         int sum = 0;
-        while (n.compareTo(BigInteger.ZERO) > 0) {
-            sum += n.mod(BigInteger.TEN).intValue(); 
-            n = n.divide(BigInteger.TEN);     
+        int n = s.length();
+        for(int i=0;i<n;i++){
+            sb.append(((int)(s.charAt(i)) - 96));
+        }
+        for(int i=0;i<sb.length();i++){
+            sum += ((sb.charAt(i))-'0');
+        }
+        k--;
+        while(k!=0){
+            int num = sum;
+            sum = 0;
+            while(num!=0){
+                int a = num%10;
+                num/=10;
+                sum += a;
+            }
+            k--;
         }
         return sum;
     }
