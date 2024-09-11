@@ -122,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/NeerMalik/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/NeerMalik/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/NeerMalik/DSA-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NeerMalik/DSA-Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/NeerMalik/DSA-Problems/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
