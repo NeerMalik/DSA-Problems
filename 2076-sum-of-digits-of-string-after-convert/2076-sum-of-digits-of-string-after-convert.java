@@ -2,8 +2,8 @@ class Solution {
     public int getLucky(String s, int k) {
         StringBuilder sb = new StringBuilder();
         int sum = 0;
-        int n = s.length();
-        for(int i=0;i<n;i++){
+       
+        for(int i=0;i<s.length();i++){
             sb.append(((int)(s.charAt(i)) - 96));
         }
         for(int i=0;i<sb.length();i++){
