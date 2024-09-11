@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NeerMalik/DSA-Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NeerMalik/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NeerMalik/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NeerMalik/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NeerMalik/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NeerMalik/DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NeerMalik/DSA-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NeerMalik/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/NeerMalik/DSA-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NeerMalik/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NeerMalik/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NeerMalik/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NeerMalik/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NeerMalik/DSA-Problems/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -121,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/NeerMalik/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/NeerMalik/DSA-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NeerMalik/DSA-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NeerMalik/DSA-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
