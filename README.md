@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NeerMalik/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0263-ugly-number) |
+| [1610-xor-operation-in-an-array](https://github.com/NeerMalik/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/NeerMalik/DSA-Problems/tree/master/2383-add-two-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NeerMalik/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
@@ -111,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1610-xor-operation-in-an-array](https://github.com/NeerMalik/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/NeerMalik/DSA-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
