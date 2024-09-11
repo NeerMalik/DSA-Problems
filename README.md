@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NeerMalik/DSA-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NeerMalik/DSA-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NeerMalik/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
 | [2383-add-two-integers](https://github.com/NeerMalik/DSA-Problems/tree/master/2383-add-two-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NeerMalik/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NeerMalik/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NeerMalik/DSA-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NeerMalik/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NeerMalik/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NeerMalik/DSA-Problems/tree/master/0242-valid-anagram) |
 ## String
