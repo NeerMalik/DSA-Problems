@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/NeerMalik/DSA-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NeerMalik/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0263-ugly-number) |
 | [2383-add-two-integers](https://github.com/NeerMalik/DSA-Problems/tree/master/2383-add-two-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NeerMalik/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
