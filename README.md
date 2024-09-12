@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NeerMalik/DSA-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NeerMalik/DSA-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NeerMalik/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/NeerMalik/DSA-Problems/tree/master/0326-power-of-three) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NeerMalik/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NeerMalik/DSA-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NeerMalik/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NeerMalik/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NeerMalik/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NeerMalik/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NeerMalik/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
