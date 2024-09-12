@@ -22,8 +22,6 @@ class Solution {
             if (isConsistent) {
                 count++;
             }
-        }
-
-        return count;
+        } return count;
     }
 }
