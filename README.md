@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/NeerMalik/DSA-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/NeerMalik/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NeerMalik/DSA-Problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/NeerMalik/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NeerMalik/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NeerMalik/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/NeerMalik/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NeerMalik/DSA-Problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/NeerMalik/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NeerMalik/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/NeerMalik/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NeerMalik/DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
