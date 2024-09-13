@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/NeerMalik/DSA-Problems/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NeerMalik/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/NeerMalik/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/NeerMalik/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/NeerMalik/DSA-Problems/tree/master/0392-is-subsequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NeerMalik/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NeerMalik/DSA-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Binary Search
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/NeerMalik/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NeerMalik/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/NeerMalik/DSA-Problems/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
