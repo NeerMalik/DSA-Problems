@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/NeerMalik/DSA-Problems/tree/master/0326-power-of-three) |
 | [1610-xor-operation-in-an-array](https://github.com/NeerMalik/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/NeerMalik/DSA-Problems/tree/master/2383-add-two-integers) |
+| [2752-sum-multiples](https://github.com/NeerMalik/DSA-Problems/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NeerMalik/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
 |  |
