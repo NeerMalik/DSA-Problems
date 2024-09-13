@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NeerMalik/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NeerMalik/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [1435-xor-queries-of-a-subarray](https://github.com/NeerMalik/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NeerMalik/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NeerMalik/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NeerMalik/DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/NeerMalik/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NeerMalik/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/NeerMalik/DSA-Problems/tree/master/0191-number-of-1-bits) |
+| [1435-xor-queries-of-a-subarray](https://github.com/NeerMalik/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1610-xor-operation-in-an-array](https://github.com/NeerMalik/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NeerMalik/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/NeerMalik/DSA-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
