@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NeerMalik/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/NeerMalik/DSA-Problems/tree/master/0392-is-subsequence) |
+| [0908-middle-of-the-linked-list](https://github.com/NeerMalik/DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NeerMalik/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/NeerMalik/DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NeerMalik/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/NeerMalik/DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NeerMalik/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
 |  |
