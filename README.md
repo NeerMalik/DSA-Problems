@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NeerMalik/DSA-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NeerMalik/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NeerMalik/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NeerMalik/DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NeerMalik/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NeerMalik/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/NeerMalik/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/NeerMalik/DSA-Problems/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NeerMalik/DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NeerMalik/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NeerMalik/DSA-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Binary Search
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NeerMalik/DSA-Problems/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NeerMalik/DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NeerMalik/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
